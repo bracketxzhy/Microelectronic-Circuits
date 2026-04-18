@@ -1,0 +1,142 @@
+                           SCUPI 2025S: Microelectronics Circuits
+                          Lab #2 Assignment: Diode Limiting Circuits
+Objectives
+• Measure and design limiting & protection circuits.
+
+Useful links
+Diode model number: 1N4007-TP
+Diode datasheet: https://www.mccsemi.com/pdf/Products/1N4001~1N4007(DO-41).pdf
+
+Introduction
+In the lecture, we learned limiting & protection circuits and inverting amplifiers. In this lab, we will
+measure and design limiting & protection circuits. Please perform the following actions and submit your
+report using the format at the end of this documentation.
+
+                                                                             R=10kΩ
+Action #1.1: Analyze Figure 1 and draw analyzed transfer
+characteristics and output voltage in the time domain, using          +                       +
+the constant-voltage-drop model. Assemble the circuit shown
+in Figure 1. Provide 14 VPP at 1 kHz for VIN. Use the oscilloscope
+to obtain a simultaneous display of VIN(t) and VOUT(t). Take a
+picture of your circuit and equipment. Include a figure to           VIN          +           VOUT
+explain your setup using the picture. Annotate it with arrows                    3V
+and texts in the figure. Include a captured image of the
+                                                                      -           -            -
+oscilloscope and discuss the result. Use the oscilloscope in the
+X-Y mode to display the transfer characteristics of the circuit in
+a different way. Include a captured image of the
+oscilloscope and discuss the result.                                           Figure 1
+
+
+Action #1.2: Design a circuit to achieve the transfer                         VOUT
+characteristics shown in Figure. Draw the schematic and explain
+its operation, using the constant-voltage-drop model. Assemble
+the circuit and provide 14 VPP at 1 kHz for VIN. Use the
+oscilloscope to obtain a simultaneous display of VIN(t) and
+VOUT(t). Take a picture of your circuit and equipment. Include a
+figure to explain your setup using the picture. Annotate it with     -2.7V
+                                                                                                   VIN
+arrows and texts in the figure. Include a captured image of the
+oscilloscope and discuss the result. Use the oscilloscope in the
+X-Y mode to display the transfer characteristics of the circuit in              -2.7V
+a different way. Include a captured image of the oscilloscope and
+discuss the result.
+                                                                                Figure 2
+
+
+
+
+                                                                                            1|Page
+Action #1.3: Design a circuit to achieve the transfer                   VOUT
+characteristics shown in Figure 3. Draw the schematic and
+explain its operation, using the constant-voltage-drop model.
+Assemble the circuit and provide 14 VPP at 1 kHz for VIN. Use       3V
+the oscilloscope to obtain a simultaneous display of VIN(t) and
+VOUT(t). Take a picture of your circuit and equipment. Include
+a figure to explain your setup using the picture. Annotate it
+with arrows and texts in the figure. Include a captured image     -1V
+                                                                                            VIN
+of the oscilloscope and discuss the result. Use the                                  3V
+oscilloscope in the X-Y mode to display the transfer                      -1V
+characteristics of the circuit in a different way. Include a
+captured image of the oscilloscope and discuss the result.
+                                                                          Figure 3
+
+
+
+
+                                                                                          2|Page
+                           SCUPI 2024S: Microelectronics Circuits
+                            Lab #2 Report: Diode Limiting Circuits
+
+Action #1.1
+Analyze Figure 1 and draw analyzed transfer characteristics and output voltage in the time domain, using
+the constant-voltage-drop model.
+
+
+
+
+Take a picture of your circuit and equipment. Include a figure to explain your setup using the picture.
+
+
+
+
+Include a captured image of the oscilloscope that shows VIN(t) and VOUT(t) and discuss the result.
+
+
+
+
+Include a captured image of the oscilloscope that displays the transfer characteristics of the circuit and
+discuss the result.
+
+
+
+
+                                                                                                3|Page
+Action #1.2
+Draw the schematic and explain its operation, using the constant-voltage-drop model.
+
+
+
+
+Take a picture of your circuit and equipment. Include a figure to explain your setup using the picture.
+
+
+
+
+Include a captured image of the oscilloscope that shows VIN(t) and VOUT(t) and discuss the result.
+
+
+
+
+Include a captured image of the oscilloscope that displays the transfer characteristics of the circuit and
+discuss the result.
+
+
+
+
+                                                                                                4|Page
+Action #1.3
+Draw the schematic and explain its operation, using the constant-voltage-drop model.
+
+
+
+
+Take a picture of your circuit and equipment. Include a figure to explain your setup using the picture.
+
+
+
+
+Include a captured image of the oscilloscope that shows VIN(t) and VOUT(t) and discuss the result.
+
+
+
+
+Include a captured image of the oscilloscope that displays the transfer characteristics of the circuit and
+discuss the result.
+
+
+
+
+                                                                                                5|Page
+
